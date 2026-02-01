@@ -1,0 +1,4 @@
+# Gritiva AutoGit - Internal files
+# These files are managed by Gritiva and should not be committed
+*
+!.gitignore
